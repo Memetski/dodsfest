@@ -1,0 +1,371 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 80px;
+} .u-section-2 {
+  background-image: linear-gradient(#61bddb, #b38fb6);
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 574px;
+}
+
+.u-section-2 .u-text-1 {
+  font-family: "Metal Mania";
+  margin: 60px auto 0;
+}
+
+.u-section-2 .u-layout-wrap-1 {
+  margin-top: 31px;
+  margin-bottom: 14px;
+}
+
+.u-section-2 .u-layout-cell-1 {
+  min-height: 203px;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 8px 30px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 279px;
+  height: 186px;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-layout-cell-2 {
+  min-height: 203px;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-2 .u-image-2 {
+  width: 453px;
+  height: 399px;
+  margin: -70px auto -126px;
+}
+
+.u-section-2 .u-layout-cell-3 {
+  min-height: 200px;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 7px 0;
+}
+
+.u-section-2 .u-image-3 {
+  width: 503px;
+  height: 137px;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-layout-cell-4 {
+  min-height: 214px;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 0 12px;
+}
+
+.u-section-2 .u-image-4 {
+  width: 368px;
+  height: 180px;
+  margin: 17px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 500px;
+  }
+
+  .u-section-2 .u-layout-wrap-1 {
+    position: relative;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 167px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 167px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 165px;
+  }
+
+  .u-section-2 .u-image-3 {
+    width: 470px;
+    height: 128px;
+  }
+
+  .u-section-2 .u-layout-cell-4 {
+    min-height: 176px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 420px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 128px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 128px;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 360px;
+    height: 317px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 126px;
+  }
+
+  .u-section-2 .u-image-3 {
+    width: 360px;
+    height: 98px;
+  }
+
+  .u-section-2 .u-layout-cell-4 {
+    min-height: 135px;
+  }
+
+  .u-section-2 .u-image-4 {
+    width: 337px;
+    height: 165px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 933px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 192px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 192px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 189px;
+  }
+
+  .u-section-2 .u-layout-cell-4 {
+    min-height: 203px;
+  }
+
+  .u-section-2 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 646px;
+  }
+
+  .u-section-2 .u-layout-cell-1 {
+    min-height: 121px;
+  }
+
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 121px;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 340px;
+    height: 299px;
+  }
+
+  .u-section-2 .u-layout-cell-3 {
+    min-height: 119px;
+  }
+
+  .u-section-2 .u-image-3 {
+    width: 340px;
+    height: 93px;
+  }
+
+  .u-section-2 .u-layout-cell-4 {
+    min-height: 128px;
+  }
+
+  .u-section-2 .u-image-4 {
+    width: 320px;
+    height: 157px;
+  }
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 504px;
+}
+
+.u-section-3 .u-text-1 {
+  font-family: "Metal Mania";
+  margin: 123px auto 0;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 1.25rem;
+  margin: 73px auto 60px;
+} .u-section-4 {
+  background-image: url("images/mosh.png");
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-4 .u-text-1 {
+  font-family: "Metal Mania";
+  margin: 100px auto 60px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-4 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-4 .u-sheet-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 149px;
+  }
+} .u-section-5 {
+  min-height: 555px;
+}
+
+.u-section-5 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 1px;
+}
+
+.u-section-5 .u-image-1 {
+  min-height: 554px;
+  background-image: url("images/Layer1.png");
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-5 .u-layout-cell-2 {
+  min-height: 554px;
+  background-image: linear-gradient(#b38fb6, #61bddb);
+}
+
+.u-section-5 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-5 .u-text-1 {
+  font-family: "Metal Mania";
+  margin: 115px auto 0;
+}
+
+.u-section-5 .u-icon-1 {
+  width: 64px;
+  height: 64px;
+  margin: 56px auto 0;
+}
+
+.u-section-5 .u-text-2 {
+  font-weight: 400;
+  margin: 8px auto 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-5 {
+    min-height: 529px;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    position: relative;
+  }
+
+  .u-section-5 .u-image-1 {
+    background-position: 50% 50%;
+    min-height: 457px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 457px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-5 {
+    min-height: 452px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 350px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-5 {
+    min-height: 959px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 525px;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-5 {
+    min-height: 677px;
+  }
+
+  .u-section-5 .u-image-1 {
+    min-height: 331px;
+  }
+}
